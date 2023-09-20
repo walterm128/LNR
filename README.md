@@ -1,6 +1,6 @@
 # LNR
 
-Web page Showroom 3D
+Página Web Showroom 3D:
 
 https://walterm128.github.io/LNR/
 
