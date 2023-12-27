@@ -2,7 +2,7 @@
 
 Página Web Showroom 3D:
 
-https://walterm128.github.io/LNR/
+https://walterm122.itch.io/lnr
 
 Muestra en modo Gaming del GRS (Grupo de Robótica y Simulación de Bahía Blanca) y de la LNR (Liga Nacional de Robótica)
 
